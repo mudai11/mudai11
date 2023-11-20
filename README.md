@@ -14,7 +14,7 @@
 
 ### Stats:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mudai11&show_icons=true&theme=dark)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mudai11&show_icons=true&theme=dark)](#)
 
 ### Find me on:
 
