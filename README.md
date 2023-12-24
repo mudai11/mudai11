@@ -4,11 +4,11 @@
 
 ### Software Engineer
 
-*   Currently mostly into webapps, performance and scaling of nodejs and react. 
-*   Open Source Enthusiast.
+*   Mostly into webapps, performance and scaling of nodejs and react. 
+*   Devtools all the way.
 *   "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
-### Tech I'm passionate about:
+### Things I'm good at:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,docker,redis,wasm)](#)
 
