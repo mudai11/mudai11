@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Muhamed Aissaoui (mudai)
+### Hi there 👋, I'm Muhamed Aissaoui (mudai)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudai11" alt="views" /> </p>
 
