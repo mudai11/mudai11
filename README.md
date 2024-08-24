@@ -5,7 +5,6 @@
 ### Software Engineer
 
 *   Mostly into webapps, performance and scaling of nodejs and react.
-*   "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 ### Things I'm good at:
 
