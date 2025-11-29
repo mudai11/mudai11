@@ -10,10 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwindcss,nodejs,docker,redis,wasm)](#)
 
-### Stats:
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mudai11&show_icons=true&theme=dark)](#)
-
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/muhamed-aziz-issaoui-2ab752257" target="_blank">
